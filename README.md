@@ -24,19 +24,20 @@ You will use classification models, such as logistic regression, decision tree, 
 
 - Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynbhttps://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project4%20Predicting%20Default%20Risk.pdf)
 
+#### Projects Under Progress 
 ### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
 Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
 
-- Project: [A/B Test a New Menu Launch]
+- Project: A/B Test a New Menu Launch
 
 ### Part 6: [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 Understand trend, seasonal, and cyclical behavior of time series data. Use time series decomposition plots. Build ETS and ARIMA models.
 
-- Project: [Forecast Video Game Sales]
+- Project: Forecast Video Game Sales
 
 ### Part 7: [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 Understand the difference between localization, standardization, and segmentation. Scale data to prepare a dataset for cluster modeling. Use principal components analysis (PCA) to reduce the number of variables for cluster model. Build and apply a k-centroid cluster model. Visualize and communicate the results of a cluster model.
 Then complete a capstone project combining techniques learned throughout the program.
 
-- Project: [Predictive Analytics Capstone]
+- Project: Predictive Analytics Capstone
 
