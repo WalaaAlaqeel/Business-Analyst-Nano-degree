@@ -6,23 +6,23 @@ This repository contains projects for Udacity's [Business Analyst Nanodegree](ht
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
 - Project: [Predicting Diamond Prices](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project1-1%20Predict%20Diamond%20Prices.pdf)
-- Project: [Predicting Catalog Demand](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.2-Predicting-Catalog-Demand.ipynb)
+- Project: [Predicting Catalog Demand](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project1-2%20Predict%20Catalog%20Demand.pdf)
 
 ### Part 2: [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
 Understand the most common data types. Understand the various sources of data. Make adjustments to dirty data to prepare a dataset. Identify and adjust for outliers. Learn to write queries to extract and analyze data from a relational database.
 
-- Project: [Data Cleanup](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2-Creating-an-Analytical-Dataset/2.1-Data-Cleanup.ipynb)
-- Project: [Create Report from Database (SQL)](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/2-Creating-an-Analytical-Dataset/2.2-Create-Report-from-Database.ipynb)
+- Project: [Data Cleanup](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project2-1%20Create%20an%20Analytical%20Dataset.pdf)
+- Project: [Create Report from Database (SQL)](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project2-2%20Create%20Reports%20From%20a%20Database.pptm)
 
 ### Part 3: [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
 Understand the importance of data visualization. Know how different data types are encoded in visualizations. Select the most effective chart or graph based on the data being displayed.
 
-- Project: [Visualizing Movie Data](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/3-Data-Visualization-in-Tableau/3.1-Visualize-Movie-Data.ipynb)
+- Project: [Visualizing Movie Data](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project3%20Visualize%20Movie%20Data.pdf)
 
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynb)
+- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynbhttps://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project4%20Predicting%20Default%20Risk.pdf)
 
 ### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
 Understand the fundamentals of A/B testing, including experimental design, variable selection, and analyzing and interpreting results.
