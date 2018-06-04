@@ -5,7 +5,7 @@ This repository contains projects for Udacity's [Business Analyst Nanodegree](ht
 ### Part 1: [Problem Solving with Advanced Analytics by Alteryx](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 Learn a structured framework for solving problems with advanced analytics. Learn to select the most appropriate analytical methodology. Learn linear regression.
 
-- Project: [Predicting Diamond Prices](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.1-Predicting-Diamond-Price.ipynb)
+- Project: [Predicting Diamond Prices](https://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project1-1%20Predict%20Diamond%20Prices.pdf)
 - Project: [Predicting Catalog Demand](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/1-Problem-Solving-with-Advanced-Analytics/1.2-Predicting-Catalog-Demand.ipynb)
 
 ### Part 2: [Creating an Analytical Dataset by Alteryx](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
