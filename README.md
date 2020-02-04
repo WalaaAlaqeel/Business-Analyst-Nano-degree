@@ -22,7 +22,7 @@ Understand the importance of data visualization. Know how different data types a
 ### Part 4: [Classification Models by Alteryx](https://www.udacity.com/course/classification-models--ud978)
 You will use classification models, such as logistic regression, decision tree, forest, and boosted, to make predictions of binary and non-binary outcomes.
 
-- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynbhttps://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project4%20Predicting%20Default%20Risk.pdf)
+- Project: [Predicting Default Risk](https://github.com/kaishengteh/Business-Analyst-Nanodegree/blob/master/4-Classification-Models/4.1-Predicting-Default-Risk.ipynbhttps://github.com/WalaaAlaqeel/Business-Analyst-Nano-degree/blob/master/Project4%20Predicting%20Default%20Risk.pdf) 
 
 #### Projects Under Progress 
 ### Part 5: [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
